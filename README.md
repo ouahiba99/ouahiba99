@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 
-- 🌱 &nbsp; **Learning about Cloud, **
+- 🌱 &nbsp; **Learning about Cloud**
 - 🎨 **Web devloper by Night**.
 - ⚡ Fun fact I play Video games very often.
 <h3> 🛠 &nbsp; Learning and using this Tech Stack</h3>
