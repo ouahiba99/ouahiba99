@@ -12,7 +12,7 @@
 <p align="center">Welcome to my GitHub profile! I'm Ouahiba Ahmid, a Telecom and ICT State Engineer with a strong passion for web development. I have a diverse skill set that includes:</p>
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML" title="HTML" width="50" height="50">
+  <img src="https://img.icons8.com/fluency/100/html-5.png" alt="HTML" title="HTML" width="50" height="50">
   <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS" title="CSS" width="50" height="50">
   <img src="https://img.icons8.com/office/160/react.png" alt="React.js" title="React.js" width="50" height="50">
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js" width="50" height="50">
