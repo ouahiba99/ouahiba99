@@ -22,7 +22,7 @@
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" width="50" height="50">
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL" width="50" height="50">
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" width="50" height="50">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-redis-an-in-memory-data-structure-project-implementing-a-distributed-logo-shadow-tal-revivo.png" alt="Redis" title="Redis" width="50" height="50">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-redis-an-in-memory-data-structure-project-implementing-a-distributed-logo-shadow-tal-revivo.png" alt="Redis" title="Redis" width="50" height="50">
   <img src="https://img.icons8.com/fluency/48/azure-1.png"  alt="Azure" title="Azure" width="50" height="50">
   <img src="https://img.icons8.com/color/48/ibm.png" alt="IBM Cloud" title="IBM Cloud" width="50" height="50">
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker" width="50" height="50">
