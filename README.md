@@ -12,22 +12,21 @@
 <p align="center">Welcome to my GitHub profile! I'm Ouahiba Ahmid, a Telecom and ICT State Engineer with a strong passion for web development. I have a diverse skill set that includes:</p>
 
 <p align="center">
-  <img src="https://link.to.flaticon/html-icon" alt="HTML" title="HTML" width="50" height="50">
-  <img src="https://link.to.flaticon/css-icon" alt="CSS" title="CSS" width="50" height="50">
-  <img src="https://link.to.flaticon/react-icon" alt="React.js" title="React.js" width="50" height="50">
-  <img src="https://link.to.flaticon/nodejs-icon" alt="Node.js" title="Node.js" width="50" height="50">
-  <img src="https://link.to.flaticon/express-icon" alt="Express" title="Express" width="50" height="50">
-  <img src="https://link.to.flaticon/java-icon" alt="Java" title="Java" width="50" height="50">
-  <img src="https://link.to.flaticon/php-icon" alt="PHP" title="PHP" width="50" height="50">
-  <img src="https://link.to.flaticon/python-icon" alt="Python" title="Python" width="50" height="50">
-  <img src="https://link.to.flaticon/mysql-icon" alt="MySQL" title="MySQL" width="50" height="50">
-  <img src="https://link.to.flaticon/mongodb-icon" alt="MongoDB" title="MongoDB" width="50" height="50">
-  <img src="https://link.to.flaticon/redis-icon" alt="Redis" title="Redis" width="50" height="50">
+  <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML" title="HTML" width="50" height="50">
+  <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS" title="CSS" width="50" height="50">
+  <img src="https://img.icons8.com/office/160/react.png" alt="React.js" title="React.js" width="50" height="50">
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js" width="50" height="50">
+  <img src="https://img.icons8.com/office/160/express-js.png" alt="Express" title="Express" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java" width="50" height="50">
+  <img src="https://img.icons8.com/officel/16/php-logo.png" alt="PHP" title="PHP" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" width="50" height="50">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-redis-an-in-memory-data-structure-project-implementing-a-distributed-logo-shadow-tal-revivo.png" alt="Redis" title="Redis" width="50" height="50">
   <img src="https://img.icons8.com/fluency/48/azure-1.png"  alt="Azure" title="Azure" width="50" height="50">
-  <img src="https://link.to.flaticon/ibmcloud-icon" alt="IBM Cloud" title="IBM Cloud" width="50" height="50">
-  <img src="https://link.to.flaticon/packettracer-icon" alt="Packet Tracer" title="Packet Tracer" width="50" height="50">
-  <img src="https://link.to.flaticon/wireshark-icon" alt="Wireshark" title="Wireshark" width="50" height="50">
-  <img src="https://link.to.flaticon/restapi-icon" alt="REST API" title="REST API" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/ibm.png" alt="IBM Cloud" title="IBM Cloud" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker" width="50" height="50">
+  <img src="https://img.icons8.com/fluency/48/api.png" alt="REST API" title="REST API" width="50" height="50">
 </p>
 
 ---
