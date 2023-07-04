@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
-  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="Animated Icon" width="1000" height="1000">
+  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="Animated Icon" width="500" height="500">
 </p>
 <h2 align="center">I'm Ouahiba Ahmid</h2>
 <h3 align="center">Telecom and ICT State Engineer | Web dev lead at GDSC USTO-MB | Web Developer</h3>
