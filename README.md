@@ -23,7 +23,7 @@
   <img src="https://link.to.flaticon/mysql-icon" alt="MySQL" title="MySQL" width="50" height="50">
   <img src="https://link.to.flaticon/mongodb-icon" alt="MongoDB" title="MongoDB" width="50" height="50">
   <img src="https://link.to.flaticon/redis-icon" alt="Redis" title="Redis" width="50" height="50">
-  <img src="https://link.to.flaticon/azure-icon" alt="Azure" title="Azure" width="50" height="50">
+  <img src="https://img.icons8.com/fluency/48/azure-1.png"  alt="Azure" title="Azure" width="50" height="50">
   <img src="https://link.to.flaticon/ibmcloud-icon" alt="IBM Cloud" title="IBM Cloud" width="50" height="50">
   <img src="https://link.to.flaticon/packettracer-icon" alt="Packet Tracer" title="Packet Tracer" width="50" height="50">
   <img src="https://link.to.flaticon/wireshark-icon" alt="Wireshark" title="Wireshark" width="50" height="50">
