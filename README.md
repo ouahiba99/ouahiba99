@@ -22,9 +22,7 @@
   <img src="https://link.to.your/mysql-icon" alt="MySQL" title="MySQL" width="50" height="50">
   <img src="https://link.to.your/mongodb-icon" alt="MongoDB" title="MongoDB" width="50" height="50">
   <img src="https://link.to.your/redis-icon" alt="Redis" title="Redis" width="50" height="50">
-  <img src="https://link.to.your/azure-icon" alt="Azure
-
-" title="Azure" width="50" height="50">
+  <img src="https://link.to.your/azure-icon" alt="Azure" title="Azure" width="50" height="50">
   <img src="https://link.to.your/ibmcloud-icon" alt="IBM Cloud" title="IBM Cloud" width="50" height="50">
   <img src="https://link.to.your/packettracer-icon" alt="Packet Tracer" title="Packet Tracer" width="50" height="50">
   <img src="https://link.to.your/wireshark-icon" alt="Wireshark" title="Wireshark" width="50" height="50">
