@@ -5,23 +5,6 @@
 <h2 align="center">I'm Ouahiba Ahmid</h2>
 <h3 align="center">Telecom and ICT State Engineer | Web Developer</h3>
 
-<p align="center">
-  <a href="mailto:ahmidouahiba@gmail.com" target="_blank">
-    <img src="https://link.to.your/email-icon" alt="Email" title="Email" width="40" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/ouahibaahmid" target="_blank">
-    <img src="https://link.to.your/linkedin-icon" alt="LinkedIn" title="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://ouahiba99.github.io/" target="_blank">
-    <img src="https://link.to.your/website-icon" alt="Website" title="Website" width="40" height="40">
-  </a>
-  <a href="https://twitter.com/ouahiba_ahmid" target="_blank">
-    <img src="https://link.to.your/twitter-icon" alt="Twitter" title="Twitter" width="40" height="40">
-  </a>
-  <a href="https://github.com/ouahiba99" target="_blank">
-    <img src="https://link.to.your/github-icon" alt="GitHub" title="GitHub" width="40" height="40">
-  </a>
-</p>
 
 ---
 
@@ -61,16 +44,16 @@
 <p align="center">Feel free to reach out to me through the following channels:</p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:ahmidouahiba@gmail.com" target="_blank">
     <img src="https://link.to.your/email-icon" alt="Email" title="Email" width="40" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/ouahiba-ahmid" target="_blank">
+  <a href="https://www.linkedin.com/in/ouahibaahmid" target="_blank">
     <img src="https://link.to.your/linkedin-icon" alt="LinkedIn" title="LinkedIn" width="40" height="40">
   </a>
-  <a href="https://www.yourwebsite.com" target="_blank">
+  <a href="https://ouahiba99.github.io/" target="_blank">
     <img src="https://link.to.your/website-icon" alt="Website" title="Website" width="40" height="40">
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/ouahiba_ahmid" target="_blank">
     <img src="https://link.to.your/twitter-icon" alt="Twitter" title="Twitter" width="40" height="40">
   </a>
 </p>
