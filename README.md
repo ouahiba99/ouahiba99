@@ -52,7 +52,7 @@
   <a href="https://ouahiba99.github.io/" target="_blank">
     <img src="https://link.to.flaticon/website-icon" alt="Website" title="Website" width="40" height="40">
   </a>
-  <a href="https://twitter.com/ouahiba_ahmid" target="_blank"> &#x1F426;
+  <a href="https://twitter.com/ouahiba_ahmid" target="_blank"><p>&#128522;</p>
   </a>
 </p>
 
