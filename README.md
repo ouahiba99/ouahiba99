@@ -53,7 +53,8 @@
     <img src="https://link.to.flaticon/website-icon" alt="Website" title="Website" width="40" height="40">
   </a>
   <a href="https://twitter.com/ouahiba_ahmid" target="_blank">     
-    <img src="https://icons8.com/icon/13963/twitter" alt="Twitter" title="Twitter" width="40" height="40">
+    <img src="![image](https://github.com/ouahiba99/ouahiba99/assets/59165621/0a3d5375-70fd-416b-8a8b-c2a1817d7dd3)
+" alt="Twitter" title="Twitter" width="40" height="40">
   </a>
 </p>
 
