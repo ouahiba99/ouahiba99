@@ -1,29 +1,59 @@
-<h2> Hey there👋!, I'm Ouahiba Ahmid.</h2>
-<h3 align="center">Telecomunication Engineering Student | DevOps enthusiast</h3>
+# Hi there! 👋
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+Welcome to my GitHub profile! I'm Ouahiba Ahmid, a Telecom and ICT State Engineer and Web Developer with a passion for building web applications and exploring new technologies. 
 
-- 🤔 &nbsp; 
-- 🌱 &nbsp; **Learning about Cloud**
-- 🎨 **Web devloper by Night**.
-- ⚡ Fun fact I play Video games very often.
-<h3> 🛠 &nbsp; Learning and using this Tech Stack</h3>
+<div align="center">
+  <img src="https://link.to.your/animated-gif" alt="Animated Icon" width="100" height="100">
+</div>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
+## Skills
 
-<br/>
+Here are some of the technologies and tools I'm proficient in:
+
+<div align="center">
+  <img src="https://link.to.your/html-icon" alt="HTML" title="HTML" width="50" height="50">
+  <img src="https://link.to.your/css-icon" alt="CSS" title="CSS" width="50" height="50">
+  <img src="https://link.to.your/react-icon" alt="React.js" title="React.js" width="50" height="50">
+  <img src="https://link.to.your/nodejs-icon" alt="Node.js" title="Node.js" width="50" height="50">
+  <img src="https://link.to.your/express-icon" alt="Express" title="Express" width="50" height="50">
+  <img src="https://link.to.your/java-icon" alt="Java" title="Java" width="50" height="50">
+  <img src="https://link.to.your/php-icon" alt="PHP" title="PHP" width="50" height="50">
+  <img src="https://link.to.your/python-icon" alt="Python" title="Python" width="50" height="50">
+  <img src="https://link.to.your/mysql-icon" alt="MySQL" title="MySQL" width="50" height="50">
+  <img src="https://link.to.your/mongodb-icon" alt="MongoDB" title="MongoDB" width="50" height="50">
+  <img src="https://link.to.your/redis-icon" alt="Redis" title="Redis" width="50" height="50">
+  <img src="https://link.to.your/azure-icon" alt="Azure" title="Azure" width="50" height="50">
+  <img src="https://link.to.your/ibmcloud-icon" alt="IBM Cloud" title="IBM Cloud" width="50" height="50">
+  <img src="https://link.to.your/packettracer-icon" alt="Packet Tracer" title="Packet Tracer" width="50" height="50">
+  <img src="https://link.to.your/wireshark-icon" alt="Wireshark" title="Wireshark" width="50" height="50">
+  <img src="https://link.to.your/restapi-icon" alt="REST API" title="REST API" width="50" height="50">
+</div>
+
+## Projects
+
+Feel free to check out some of my notable projects:
+
+1. **Project 1:** [Project Name](https://github.com/project1) - Brief description of the project.
+2. **Project 2:** [Project Name](https://github.com/project2) - Brief description of the project.
+3. **Project 3:** [Project Name](https://github.com/project3) - Brief description of the project.
+
+## Contact
+
+If you have any questions or would like to collaborate on an exciting project, feel free to reach out to me via the following channels:
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [Ouahiba Ahmid](
+
+https://www.linkedin.com/in/ouahiba-ahmid)
+- 🌐 Personal website: [yourwebsite.com](https://www.yourwebsite.com)
+
+## Let's Connect
+
+I'm always interested in connecting with fellow developers, so don't hesitate to connect with me on social media:
+
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@your-username](https://github.com/your-username)
+
+Feel free to explore my repositories and contributions. If you find something interesting, don't forget to star the repositories you like.
+
+Thanks for visiting my profile, and I look forward to hearing from you! 😊
