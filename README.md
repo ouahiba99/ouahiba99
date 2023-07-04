@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
-  <img src="https://gifdb.com/images/high/retro-pixel-landscape-background-0g0dpo6tlg0pbmfp.gif" alt="Profile Icon" width="2000" height="200">
+  <img src="https://gifdb.com/images/high/retro-pixel-landscape-background-0g0dpo6tlg0pbmfp.gif" alt="Profile Icon" width="2000" height="1000">
 </p>
 <h2 align="center">I'm Ouahiba Ahmid</h2>
 <h3 align="center">Telecom and ICT State Engineer | Web dev lead at GDSC USTO-MB | Web Developer</h3>
