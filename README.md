@@ -18,7 +18,7 @@
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js" width="50" height="50">
   <img src="https://img.icons8.com/office/160/express-js.png" alt="Express" title="Express" width="50" height="50">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java" width="50" height="50">
-  <img src="https://img.icons8.com/officel/16/php-logo.png" alt="PHP" title="PHP" width="50" height="50">
+  <img src="https://img.icons8.com/offices/30/php-logo.png" alt="PHP" title="PHP" width="50" height="50">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" width="50" height="50">
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL" width="50" height="50">
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" width="50" height="50">
