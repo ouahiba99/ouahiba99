@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://img.icons8.com/fluency/100/html-5.png" alt="HTML" title="HTML" width="50" height="50">
   <img src="https://img.icons8.com/fluency/100/css3.png" alt="CSS" title="CSS" width="50" height="50">
+  <img src="https://img.icons8.com/color/100/javascript--v1.png" alt="JavaScript" title="JavaScript" width="50" height="50">
   <img src="https://img.icons8.com/office/160/react.png" alt="React.js" title="React.js" width="50" height="50">
   <img src="https://img.icons8.com/fluency/100/node-js.png" alt="Node.js" title="Node.js" width="50" height="50">
   <img src="https://img.icons8.com/office/160/express-js.png" alt="Express" title="Express" width="50" height="50">
