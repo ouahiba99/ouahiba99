@@ -30,16 +30,6 @@
   <img src="https://img.icons8.com/fluency/100/api.png" alt="REST API" title="REST API" width="50" height="50">
 </p>
 
----
-
-<p align="center">Here are some of the projects I've worked on:</p>
-
-- **Project 1:** [Project Name](https://github.com/project1) - Brief description of the project.
-- **Project 2:** [Project Name](https://github.com/project2) - Brief description of the project.
-- **Project 3:** [Project Name](https://github.com/project3) - Brief description of the project.
-
----
-
 <p align="center">Feel free to reach out to me through the following channels:</p>
 
 <p align="center">
