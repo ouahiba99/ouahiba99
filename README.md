@@ -3,7 +3,7 @@
   <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="Animated Icon" width="150" height="150">
 </p>
 <h2 align="center">I'm Ouahiba Ahmid</h2>
-<h3 align="center">Telecom and ICT State Engineer | Web dev lead at GDSC USTO-MB | Web Developer</h3>
+<h3 align="center">Telecom and ICT State Engineer |Dev & IT lead at GDSC USTO-MB | Web Developer</h3>
 
 
 
