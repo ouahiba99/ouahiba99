@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center">Welcome to my GitHub profile! I'm Ouahiba Ahmid, a Telecom and ICT State Engineer with a strong passion for web development. I have a diverse skill set that includes:</p>
+<p align="center">Welcome to my GitHub profile! I'm Ouahiba Ahmid, a Telecom and ICT State Engineer and i am a big data consultant at Riaktr . I have a diverse skill set that includes:</p>
 
 <p align="center">
   <img src="https://img.icons8.com/fluency/100/html-5.png" alt="HTML" title="HTML" width="50" height="50">
