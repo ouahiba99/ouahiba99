@@ -35,7 +35,7 @@ I enjoy turning complex technical requirements into **automated, observable, and
 * 📊 **Observability** — Prometheus, Grafana, Kibana
 * 📡 **Telecom Operations** — OSS/BSS, network monitoring, incident management
 * 🌍 **B2B Collaboration** — Technical work with international telecom teams and operators across multiple markets
-* 🏫 **Founder** — [ITAAR Academy](#), a practical initiative focused on technology, learning, and collaboration
+* 🏫 **Founder** — [ITAAR Academy](https://www.linkedin.com/company/itaar-academy/), a practical initiative focused on technology, learning, and collaboration
 
 ---
 
@@ -110,7 +110,7 @@ I enjoy turning complex technical requirements into **automated, observable, and
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="36" height="36" alt="Jira" />
 </p>
 
-<code>Prometheus</code> · <code>Grafana</code> · <code>Kibana</code> <code>NetAct</code> · <code>ENM</code> · <code>U2020</code> · <code>OSS/BSS</code> · <code>Jira</code>
+<code>Prometheus</code> · <code>Grafana</code> · <code>Kibana</code> · <code>NetAct</code> · <code>ENM</code> · <code>U2020</code> · <code>OSS/BSS</code> · <code>Jira</code>
 
 </td>
 </tr>
