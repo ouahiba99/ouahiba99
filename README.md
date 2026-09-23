@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ouahiba%20Ahmid&fontSize=50&fontColor=ffffff&color=0B1F3A"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ouahiba%20Ahmid&fontSize=50&fontColor=ffffff&color=gradient"
     alt="Ouahiba Ahmid"
     width="95%"
   />
@@ -32,7 +32,7 @@ I enjoy turning complex technical requirements into **automated, observable, and
 * ⚙️ **Data & Pipelines** — ETL/ELT, Spark, SQL, Python, Airflow, Prefect
 * ☁️ **Cloud & Infrastructure** — GCP, Azure, Docker, Kubernetes, Linux
 * 🤖 **MLOps & Automation** — MLflow, DVC, FastAPI, CI/CD
-* 📊 **Observability** — Prometheus, Grafana, Kibana, Zabbix
+* 📊 **Observability** — Prometheus, Grafana, Kibana
 * 📡 **Telecom Operations** — OSS/BSS, network monitoring, incident management
 * 🌍 **B2B Collaboration** — Technical work with international telecom teams and operators across multiple markets
 * 🏫 **Founder** — [ITAAR Academy](#), a practical initiative focused on technology, learning, and collaboration
@@ -104,22 +104,20 @@ I enjoy turning complex technical requirements into **automated, observable, and
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="40" height="40" alt="Prometheus" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana" />
   <img src="https://cdn.simpleicons.org/kibana/005571" width="40" height="40" alt="Kibana" />
-  <img src="https://cdn.simpleicons.org/zabbix/D40000" width="40" height="40" alt="Zabbix" />
 </p>
 
 <p>
   <img src="https://cdn.simpleicons.org/nokia/124191" width="38" height="38" alt="Nokia NetAct" />
   <img src="https://cdn.simpleicons.org/ericsson/0F6DB3" width="38" height="38" alt="Ericsson ENM" />
   <img src="https://cdn.simpleicons.org/huawei/FF0000" width="38" height="38" alt="Huawei U2020" />
-  <img src="https://cdn.simpleicons.org/servicenow/81B5A1" width="38" height="38" alt="ServiceNow" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="38" height="38" alt="Jira" />
 </p>
 
-<code>Prometheus</code> · <code>Grafana</code> · <code>Kibana</code> · <code>Zabbix</code>
+<code>Prometheus</code> · <code>Grafana</code> · <code>Kibana</code>
 
 <br/>
 
-<code>NetAct</code> · <code>ENM</code> · <code>U2020</code> · <code>OSS/BSS</code> · <code>ServiceNow</code> · <code>Jira</code>
+<code>NetAct</code> · <code>ENM</code> · <code>U2020</code> · <code>OSS/BSS</code>  · <code>Jira</code>
 
 </td>
 
