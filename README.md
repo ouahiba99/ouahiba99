@@ -1,259 +1,164 @@
 <div align="center">
 
-# Ouahiba Ahmid
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1a2980&height=200&section=header&text=Hi%20There!%20I'm%20Ouahiba%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### DataOps & Cloud Consultant · Telecom & ICT Engineer · Founder of ITAAR Academy
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=DevOps+%26+Infrastructure+Engineer;Cloud+%7C+Docker+%7C+Linux+%7C+Automation;Telecom+Engineer+%E2%86%92+Cloud+%26+Data+Builder;Building+reliable%2C+observable+systems." alt="Typing SVG" />
+</a>
 
 <p>
-  <a href="https://www.linkedin.com/in/datadrivenmind/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://ouahiba99.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:ahmidouahiba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/ouahiba99">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/badge/DevOps%20Engineer-Seamless%20SDS-2c5364?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Algeria-DC382D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-4285F4?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## About
+### 🧭 About Me
 
-I'm a **Telecom & ICT State Engineer** specializing in **DataOps, Data Engineering, Cloud Infrastructure, automation, and observability**.
+I'm a **DevOps & Infrastructure Engineer**, currently sharpening my focus on **data infrastructure and analytics engineering**. My background spans production support at **Seamless SDS** (Sweden, remote) and telecom operations at **Huawei**, **Mobilis**, and **Algérie Télécom** — so I'm just as comfortable tracing a signal outage on an optical link as I am debugging a container in production at 2 AM.
 
-I build reliable data and infrastructure solutions across the full workflow — from **data ingestion and ETL** to **cloud deployment, monitoring, and production support**.
-
-My background combines **telecom operations, distributed data processing, Linux systems, cloud technologies, and international B2B collaboration**.
-
-```text
-Data Engineering    → ETL · Spark · SQL · Data Pipelines
-DataOps / MLOps     → DVC · MLflow · Validation · CI/CD
-Cloud & Infra       → GCP · Azure · Docker · Kubernetes
-Observability       → Prometheus · Grafana · Monitoring
-Telecom             → NOC · OSS/BSS · Network Operations
-```
+- 🔧 Production support across Docker, Linux, and Bash — 40+ L2/L3 tickets resolved monthly at 93% SLA compliance
+- 📊 Monitoring & observability with Prometheus, Grafana, and Kibana
+- 🔄 ETL and orchestration with Spark/PySpark, Airflow, and Prefect
+- 🌱 Building toward **Data & Analytics Engineering** — currently deepening dbt, Airflow, and cloud certifications
+- 🎓 State Engineer in Digital Technologies & Telecommunications — ENSTTIC, Oran, Algeria
+- 🗣️ Arabic (native) · English (professional) · French (moderate)
 
 ---
 
-## Core Stack
+### 🛠️ Tech Stack
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+**Monitoring & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+**Data & Orchestration**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Networking Foundation**
+
+`TCP/IP` `OSI` `VLANs` `Routing & Switching` `2G/3G/LTE` `Wireshark` `Packet Tracer` `ITIL`
+
+---
+
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td><strong>Languages</strong></td>
-<td>Python · SQL · Bash · Java</td>
+<td width="50%" valign="top">
+
+**🔮 Production-Oriented MLOps Pipeline**
+
+Late-delivery prediction pipeline built on the Olist dataset — reproducible Python/SQL data prep and feature-engineering workflows, with components containerized in Docker.
+
+`Python` `Docker` `PostgreSQL` `Scikit-learn` `Git`
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Data Infrastructure & Analytics Platform**
+
+Reusable ETL and data-processing workflows built with Python, SQL, and Apache Spark, running on PostgreSQL and packaged in Docker.
+
+`Python` `PostgreSQL` `Docker` `Spark` `ETL`
+
+</td>
 </tr>
 <tr>
-<td><strong>Data</strong></td>
-<td>PySpark · PostgreSQL · MongoDB · Redis · BigQuery</td>
-</tr>
-<tr>
-<td><strong>Cloud</strong></td>
-<td>Google Cloud · Azure · Cloud Storage · Dataflow</td>
-</tr>
-<tr>
-<td><strong>DevOps</strong></td>
-<td>Docker · Kubernetes · Linux · Git · CI/CD</td>
-</tr>
-<tr>
-<td><strong>DataOps</strong></td>
-<td>Prefect · Airflow · DVC · MLflow · FastAPI</td>
-</tr>
-<tr>
-<td><strong>Monitoring</strong></td>
-<td>Grafana · Prometheus · Netdata · Nagios · Zabbix · Kibana</td>
-</tr>
-<tr>
-<td><strong>Telecom</strong></td>
-<td>NOC Operations · OSS/BSS · Network Monitoring · Incident Management</td>
+<td width="50%" valign="top">
+
+**📈 Data Analysis & BI Tool**
+
+Reusable dashboard components with JSON-schema validation and dynamic Apache ECharts visualizations.
+
+`React` `TypeScript` `ECharts` `JSON` `Zod`
+
+</td>
+<td width="50%" valign="top">
+
+**📡 Telecom Foundations**
+
+Years of hands-on telecom infrastructure work — NOC monitoring across Nokia/Ericsson/Huawei/ZTE gear, plus optical fiber, transmission, and 2G/3G/4G field engineering.
+
+`NetAct` `ENM` `U2020` `NetNumen`
+
+</td>
 </tr>
 </table>
 
 ---
 
-## Featured Work
+### 📊 GitHub Stats
 
-### 🛒 End-to-End MLOps — Olist Late Delivery Prediction
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ouahiba99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouahiba99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
-**Python · Scikit-learn · FastAPI · Docker · MLflow · DVC · Azure · PostgreSQL**
-
-An end-to-end machine learning platform that predicts whether an e-commerce order is likely to arrive later than its estimated delivery date.
-
-**Built with:**
-
-* Data ingestion and transformation pipelines
-* PostgreSQL data layer
-* Feature engineering and model training
-* MLflow experiment tracking and model registry
-* DVC for data/model versioning
-* Great Expectations for data validation
-* FastAPI prediction service
-* Dockerized deployment
-* Azure Blob Storage
-* Prometheus & Grafana monitoring
-* Automated tests and CI/CD
-
-**Architecture**
-
-```text
-Raw Data
-   │
-   ▼
-PostgreSQL
-   │
-   ▼
-Data Validation
-   │
-   ▼
-Feature Engineering
-   │
-   ▼
-Model Training
-   │
-   ├── MLflow
-   └── DVC
-   │
-   ▼
-FastAPI
-   │
-   ▼
-Docker / Nginx
-   │
-   ├── Prometheus
-   └── Grafana
-```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouahiba99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-### 📡 Telecom & Network Analytics
+### 📜 Certifications
 
-Building data-driven solutions around **telecom operations, network information, monitoring and performance analysis**.
-
-Experience includes working with operational environments and tools such as:
-
-`Nagios` · `Zabbix` · `NetAct` · `ENM` · `U2020` · `NetNumen` · `ServiceNow` · `Jira`
-
----
-
-### ⚙️ Data Engineering & Automation
-
-Developing practical workflows for:
-
-* ETL and data transformation
-* API-based ingestion
-* Distributed data processing
-* Workflow orchestration
-* Data quality validation
-* Infrastructure automation
-* Monitoring and observability
-* Production troubleshooting
+- Oracle Cloud Infrastructure Foundations Associate — Oracle
+- Google IT Support Professional Certificate — Coursera
+- Docker Training — KodeKloud
+- Google Cloud Computing Foundations — Google
+- AWS Educate: Introduction to Cloud 101 — AWS Educate
 
 ---
 
-## Professional Experience
+### 📫 Let's Connect
 
-### Analytics / Data Operations Engineering
-
-**International B2B Environment**
-
-* Built and maintained data processing and ETL workflows
-* Worked with Python, SQL, Spark, Linux and Docker
-* Supported production data and infrastructure environments
-* Investigated technical incidents and operational issues
-* Collaborated directly with international clients and engineering teams
-* Participated in technical discussions involving telecom operators and stakeholders across multiple countries
-
-### Telecom Network Operations
-
-**NOC Engineering**
-
-Worked in telecom operational environments involving:
-
-* Network monitoring
-* Incident management
-* OSS/BSS systems
-* Performance monitoring
-* Technical troubleshooting
-* Operational reporting
-
----
-
-## 🎓 Education
-
-**State Engineer — Telecom & ICT**
-
-ENSTTIC
-École Nationale Supérieure des Technologies de l'Information et de la Communication
-
----
-
-## Certifications
-
-| Certification                           | Area                    |
-| --------------------------------------- | ----------------------- |
-| Google Cloud Foundations                | Cloud                   |
-| Oracle Cloud Infrastructure Foundations | Cloud                   |
-| Cisco Networking Basics                 | Networking              |
-| Kubernetes for Absolute Beginners       | Containers / Kubernetes |
-
----
-
-## 🏫 ITAAR Academy
-
-**Founder — ITAAR Academy**
-
-A learning and technology initiative built around a simple idea:
-
-> **Learn. Practice. Grow.**
-
-ITAAR Academy focuses on practical learning, technology, collaboration and skill development across areas such as:
-
-**Technology · Programming · Networking · IoT · Languages · Practical Workshops**
-
----
-
-## Currently Exploring
-
-```text
-Kubernetes
-Infrastructure as Code
-Cloud Architecture
-DataOps
-MLOps
-Automation
-Observability
-Scalable Data Platforms
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in **Data Engineering, DataOps, Cloud, Telecom, automation, and technology projects**.
-
-<br>
-
-<a href="https://www.linkedin.com/in/ouahibaahmid">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://ouahiba99.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-&nbsp;
+<p align="center">
 <a href="mailto:ahmidouahiba@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://linkedin.com/in/datadrivenmind">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ouahiba99">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-<br><br>
+<p align="center"><i>✨ Always open to collaborating on data, cloud, and telecom projects.</i></p>
 
-**Building reliable systems. Turning data into useful solutions.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
