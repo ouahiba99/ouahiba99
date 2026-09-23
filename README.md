@@ -43,18 +43,17 @@ I enjoy turning complex technical requirements into **automated, observable, and
 
 <table>
 <tr>
-
 <td valign="top" width="50%">
 
-### Data Engineering
+### 🐍 Data Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,redis" alt="Python PostgreSQL MongoDB Redis" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,redis" height="42" alt="Python PostgreSQL MongoDB Redis" />
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40" height="40" alt="Apache Spark" />
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40" height="40" alt="Apache Spark" />
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="38" height="38" alt="Apache Spark" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="38" height="38" alt="Apache Airflow" />
 </p>
 
 <code>Python</code> · <code>SQL</code> · <code>Spark</code> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Redis</code>
@@ -63,66 +62,60 @@ I enjoy turning complex technical requirements into **automated, observable, and
 
 <td valign="top" width="50%">
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,linux,nginx" alt="GCP Azure Docker Kubernetes Linux Nginx" />
+  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,linux,nginx" height="42" alt="GCP Azure Docker Kubernetes Linux Nginx" />
 </p>
 
-<code>GCP</code> · <code>Azure</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>Linux</code> · <code>Nginx</code>
+<code>GCP</code> · <code>Azure</code> · <code>Docker</code> · <code>Kubernetes</code> <code>Linux</code> · <code>Nginx</code> · <code>Cloud Infrastructure</code>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td valign="top">
 
-### DataOps & MLOps
+### ⚙️ DataOps & MLOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,fastapi" alt="Git GitHub GitHub Actions FastAPI" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,fastapi" height="42" alt="Git GitHub GitHub Actions FastAPI" />
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40" height="40" alt="Airflow" />
-  <img src="https://cdn.simpleicons.org/prefect/070E10" width="40" height="40" alt="Prefect" />
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow" />
-  <img src="https://cdn.simpleicons.org/dvc/13ADC7" width="40" height="40" alt="DVC" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="38" height="38" alt="Airflow" />
+  <img src="https://cdn.simpleicons.org/prefect/070E10" width="38" height="38" alt="Prefect" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="38" height="38" alt="MLflow" />
+  <img src="https://cdn.simpleicons.org/dvc/13ADC7" width="38" height="38" alt="DVC" />
 </p>
 
-<code>Airflow</code> · <code>Prefect</code> · <code>MLflow</code> · <code>DVC</code> · <code>FastAPI</code> · <code>CI/CD</code>
+<code>Airflow</code> · <code>Prefect</code> · <code>MLflow</code> · <code>DVC</code> <code>FastAPI</code> · <code>CI/CD</code> · <code>Automation</code>
 
 </td>
 
 <td valign="top">
 
-### Observability & Telecom
+### 📡 Observability & Telecom
 
 <p>
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="40" height="40" alt="Prometheus" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana" />
-  <img src="https://cdn.simpleicons.org/kibana/005571" width="40" height="40" alt="Kibana" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="38" height="38" alt="Prometheus" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="38" height="38" alt="Grafana" />
+  <img src="https://cdn.simpleicons.org/kibana/005571" width="38" height="38" alt="Kibana" />
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/nokia/124191" width="38" height="38" alt="Nokia NetAct" />
-  <img src="https://cdn.simpleicons.org/ericsson/0F6DB3" width="38" height="38" alt="Ericsson ENM" />
-  <img src="https://cdn.simpleicons.org/huawei/FF0000" width="38" height="38" alt="Huawei U2020" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="38" height="38" alt="Jira" />
+  <img src="https://cdn.simpleicons.org/nokia/124191" width="36" height="36" alt="Nokia NetAct" />
+  <img src="https://cdn.simpleicons.org/ericsson/0F6DB3" width="36" height="36" alt="Ericsson ENM" />
+  <img src="https://cdn.simpleicons.org/huawei/FF0000" width="36" height="36" alt="Huawei U2020" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="36" height="36" alt="Jira" />
 </p>
 
-<code>Prometheus</code> · <code>Grafana</code> · <code>Kibana</code>
-
-<br/>
-
-<code>NetAct</code> · <code>ENM</code> · <code>U2020</code> · <code>OSS/BSS</code>  · <code>Jira</code>
+<code>Prometheus</code> · <code>Grafana</code> · <code>Kibana</code> <code>NetAct</code> · <code>ENM</code> · <code>U2020</code> · <code>OSS/BSS</code> · <code>Jira</code>
 
 </td>
-
 </tr>
 </table>
+
 
 ---
 
