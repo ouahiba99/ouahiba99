@@ -19,7 +19,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=ouahiba99&show_icons=true&hide_border=true&theme=transparent&rank_icon=github
@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=ouahiba99&layout=compact&hide_border=true&theme=transparent
