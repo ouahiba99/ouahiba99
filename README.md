@@ -43,13 +43,21 @@ I enjoy turning complex technical requirements into **automated, observable, and
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 ### Data Engineering
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,redis" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,redis" alt="Python PostgreSQL MongoDB Redis" />
+</p>
 
-`Python` · `SQL` · `Spark` · `PostgreSQL` · `MongoDB` · `Redis`
+<p>
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40" height="40" alt="Apache Spark" />
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40" height="40" alt="Apache Spark" />
+</p>
+
+<code>Python</code> · <code>SQL</code> · <code>Spark</code> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Redis</code>
 
 </td>
 
@@ -57,21 +65,34 @@ I enjoy turning complex technical requirements into **automated, observable, and
 
 ### Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,linux,nginx" alt="GCP Azure Docker Kubernetes Linux Nginx" />
+</p>
 
-`GCP` · `Azure` · `Docker` · `Kubernetes` · `Linux` · `Nginx`
+<code>GCP</code> · <code>Azure</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>Linux</code> · <code>Nginx</code>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td valign="top">
 
 ### DataOps & MLOps
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,fastapi" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,fastapi" alt="Git GitHub GitHub Actions FastAPI" />
+</p>
 
-`Airflow` · `Prefect` · `MLflow` · `DVC` · `FastAPI` · `CI/CD`
+<p>
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40" height="40" alt="Airflow" />
+  <img src="https://cdn.simpleicons.org/prefect/070E10" width="40" height="40" alt="Prefect" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow" />
+  <img src="https://cdn.simpleicons.org/dvc/13ADC7" width="40" height="40" alt="DVC" />
+</p>
+
+<code>Airflow</code> · <code>Prefect</code> · <code>MLflow</code> · <code>DVC</code> · <code>FastAPI</code> · <code>CI/CD</code>
 
 </td>
 
@@ -79,10 +100,29 @@ I enjoy turning complex technical requirements into **automated, observable, and
 
 ### Observability & Telecom
 
-`Prometheus` · `Grafana` · `Kibana` · `Zabbix`
-`NetAct` · `ENM` · `U2020` · `OSS/BSS` · `ServiceNow` · `Jira`
+<p>
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="40" height="40" alt="Prometheus" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana" />
+  <img src="https://cdn.simpleicons.org/kibana/005571" width="40" height="40" alt="Kibana" />
+  <img src="https://cdn.simpleicons.org/zabbix/D40000" width="40" height="40" alt="Zabbix" />
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/nokia/124191" width="38" height="38" alt="Nokia NetAct" />
+  <img src="https://cdn.simpleicons.org/ericsson/0F6DB3" width="38" height="38" alt="Ericsson ENM" />
+  <img src="https://cdn.simpleicons.org/huawei/FF0000" width="38" height="38" alt="Huawei U2020" />
+  <img src="https://cdn.simpleicons.org/servicenow/81B5A1" width="38" height="38" alt="ServiceNow" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="38" height="38" alt="Jira" />
+</p>
+
+<code>Prometheus</code> · <code>Grafana</code> · <code>Kibana</code> · <code>Zabbix</code>
+
+<br/>
+
+<code>NetAct</code> · <code>ENM</code> · <code>U2020</code> · <code>OSS/BSS</code> · <code>ServiceNow</code> · <code>Jira</code>
 
 </td>
+
 </tr>
 </table>
 
@@ -196,15 +236,15 @@ Topics include technology, programming, IoT, cloud, languages, workshops, and ha
 <div align="center">
 
 <a href="https://github.com/ouahiba99">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/datadrivenmind">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:ahmidouahiba@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
