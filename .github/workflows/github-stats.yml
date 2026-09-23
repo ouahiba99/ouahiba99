@@ -17,25 +17,32 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=ouahiba99&show_icons=true&hide_border=true&theme=transparent&rank_icon=github
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p profile
+
+          curl -fL \
+            "https://github-readme-stats.vercel.app/api?username=ouahiba99&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" \
+            -o profile/stats.svg
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=ouahiba99&layout=compact&hide_border=true&theme=transparent
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -fL \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=ouahiba99&layout=compact&hide_border=true&theme=transparent" \
+            -o profile/top-langs.svg
+
+      - name: Validate SVG files
+        run: |
+          grep -q "<svg" profile/stats.svg
+          grep -q "<svg" profile/top-langs.svg
 
       - name: Commit updated stats
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "chore: update GitHub stats" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/stats.svg profile/top-langs.svg
+
+          git diff --cached --quiet || \
+            git commit -m "chore: update GitHub stats"
+
           git push
