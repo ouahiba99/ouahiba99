@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
@@ -32,21 +34,20 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit updated stats
+      - name: Commit and push stats
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
 
+          git fetch origin main
+          git reset --soft origin/main
+
           git add profile/*.svg
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No stats changes"
             exit 0
           fi
 
           git commit -m "chore: update GitHub stats"
-
-          git fetch origin main
-          git rebase origin/main
-
           git push origin HEAD:main
