@@ -1,289 +1,215 @@
 <div align="center">
-
-# Hi, I'm Ouahiba Ahmid 👋
-
-### DataOps & Cloud Consultant · Telecom & ICT Engineer · Founder of ITAAR Academy
-
-<p>
-  <a href="https://www.linkedin.com/in/ouahibaahmid">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://ouahiba99.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:ahmidouahiba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/ouahiba99">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ouahiba%20Ahmid&fontSize=50&fontColor=ffffff&color=0B1F3A"
+    alt="Ouahiba Ahmid"
+    width="95%"
+  />
 </p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D2FF&center=true&vCenter=true&width=850&lines=DataOps+%26+Cloud+Infrastructure;Data+Engineering+%7C+MLOps+%7C+Automation;Telecom+%26+Network+Operations;Building+Reliable+%26+Scalable+Systems" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-**Building reliable data pipelines, scalable cloud systems, and production-ready automation.**
+<img src="https://img.shields.io/badge/DataOps-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-7F52FF?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Telecom-FF6F00?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-2E8B57?style=for-the-badge&logo=githubactions&logoColor=white" />
 
-<br>
-
-`DATA` → `PIPELINES` → `CLOUD` → `OBSERVABILITY`
 
 </div>
 
 ---
 
-## About
+## 👩‍💻 About Me
 
-I'm a **Telecom & ICT State Engineer** focused on **Data Engineering, DataOps, Cloud Infrastructure, MLOps, automation, and observability**.
+I'm a **Telecom & ICT State Engineer** and **DataOps & Cloud Consultant** focused on building reliable systems at the intersection of **data engineering, cloud infrastructure, MLOps, and telecom operations**.
 
-My background combines data platforms, distributed processing, Linux systems, cloud technologies, telecom operations, and international B2B collaboration.
+I enjoy turning complex technical requirements into **automated, observable, and production-ready solutions**.
 
-* **Data Engineering** — ETL, SQL, PySpark, distributed processing
-* **DataOps / MLOps** — orchestration, validation, versioning, CI/CD
-* **Cloud** — GCP, BigQuery, Cloud Storage, Dataflow
-* **Infrastructure** — Linux, Docker, Kubernetes
-* **Observability** — Prometheus, Grafana, monitoring
-* **Telecom** — NOC, OSS/BSS, network operations
-* **Education** — Founder of ITAAR Academy
+* ⚙️ **Data & Pipelines** — ETL/ELT, Spark, SQL, Python, Airflow, Prefect
+* ☁️ **Cloud & Infrastructure** — GCP, Azure, Docker, Kubernetes, Linux
+* 🤖 **MLOps & Automation** — MLflow, DVC, FastAPI, CI/CD
+* 📊 **Observability** — Prometheus, Grafana, Kibana, Zabbix
+* 📡 **Telecom Operations** — OSS/BSS, network monitoring, incident management
+* 🌍 **B2B Collaboration** — Technical work with international telecom teams and operators across multiple markets
+* 🏫 **Founder** — [ITAAR Academy](#), a practical initiative focused on technology, learning, and collaboration
 
 ---
 
-## Core Technology
+## 🧩 Technical Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Data Engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb" height="45" alt="Python PostgreSQL MongoDB">
-</p>
+<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,redis" />
 
-**Python · SQL · Apache Spark · PySpark · PostgreSQL · MongoDB · Redis · BigQuery**
+`Python` · `SQL` · `Spark` · `PostgreSQL` · `MongoDB` · `Redis`
 
-### Cloud
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,azure" height="45" alt="Google Cloud and Azure">
-</p>
+<td valign="top" width="50%">
 
-**Google Cloud · BigQuery · Cloud Storage · Dataflow · Azure Blob Storage**
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,linux" />
+
+`GCP` · `Azure` · `Docker` · `Kubernetes` · `Linux` · `Nginx`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### DataOps & MLOps
 
-**Prefect · Airflow · MLflow · DVC · Great Expectations · FastAPI · Git · CI/CD**
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,fastapi" />
 
-### Infrastructure & Systems
+`Airflow` · `Prefect` · `MLflow` · `DVC` · `FastAPI` · `CI/CD`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,bash,nginx" height="45" alt="Linux Docker Kubernetes Bash Nginx">
-</p>
+</td>
 
-**Linux · Docker · Kubernetes · Bash · Nginx**
+<td valign="top">
 
-### Observability
+### Observability & Telecom
 
-**Prometheus · Grafana · Netdata · Nagios · Zabbix · Kibana**
+`Prometheus` · `Grafana` · `Kibana` · `Zabbix`
+`NetAct` · `ENM` · `U2020` · `OSS/BSS` · `ServiceNow` · `Jira`
 
-### Telecom
-
-**NOC Operations · OSS/BSS · Network Monitoring · Incident Management**
-
-**NetAct · ENM · U2020 · NetNumen · ServiceNow · Jira**
+</td>
+</tr>
+</table>
 
 ---
 
-## Engineering Focus
+## 🚀 Featured Projects
 
-```text
-                    ┌─────────────────────┐
-                    │       DATA          │
-                    │ Python · SQL · Spark│
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     PIPELINES       │
-                    │ ETL · Prefect · Airflow │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │        CLOUD        │
-                    │ GCP · BigQuery · GCS│
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   PRODUCTION        │
-                    │ Docker · Linux · API│
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  OBSERVABILITY      │
-                    │ Prometheus · Grafana│
-                    └─────────────────────┘
-```
+### 🛒 End-to-End MLOps Platform
+
+**Production-oriented ML platform for predicting late e-commerce deliveries.**
+
+`Python` `PostgreSQL` `MLflow` `DVC` `FastAPI` `Docker` `Azure Blob` `Prometheus` `Grafana`
+
+**Highlights**
+
+* End-to-end ML lifecycle from training to deployment
+* MLflow model registry and champion model workflow
+* DVC-based data/model artifact management
+* Azure Blob Storage integration
+* FastAPI prediction service
+* Nginx reverse proxy
+* Docker Compose infrastructure
+* Prometheus + Grafana monitoring
+* Automated CI/CD with GitHub Actions
 
 ---
 
-## Featured Project
+### 📡 Telecom Network Operations Platform
 
-### 🛒 End-to-End MLOps — Olist Late Delivery Prediction
+**Engineering platform for simulating, ingesting, processing, and monitoring telecom network data.**
 
-An end-to-end machine learning platform for predicting whether an e-commerce order is likely to arrive later than its estimated delivery date.
+`Python` `Kafka` `PostgreSQL` `FastAPI` `Docker` `Grafana`
 
-**Architecture**
+**Highlights**
 
-```text
-Raw Data
-   │
-   ▼
-PostgreSQL
-   │
-   ▼
-Data Validation
-   │
-   ▼
-Feature Engineering
-   │
-   ▼
-Model Training
-   │
-   ├── MLflow
-   └── DVC
-   │
-   ▼
-FastAPI
-   │
-   ▼
-Docker / Nginx
-   │
-   ├── Prometheus
-   └── Grafana
-```
-
-**Technology**
-
-`Python` `SQL` `PostgreSQL` `Scikit-learn` `MLflow` `DVC` `Great Expectations` `FastAPI` `Docker` `Azure Blob Storage` `Prometheus` `Grafana`
-
-**Engineering focus**
-
-* Reproducible data and ML workflows
-* Data validation and quality checks
-* Experiment tracking and model management
-* API-based model inference
-* Containerized deployment
-* Monitoring and observability
-* CI/CD and automated testing
+* Network KPI and alarm simulation
+* Kafka-based event streaming
+* PostgreSQL operational data storage
+* FastAPI APIs
+* Network performance processing
+* Real-time observability dashboards
+* Containerized architecture
 
 ---
 
-## Professional Experience
+## 💼 Professional Background
 
-### Analytics / Data Operations Engineering
+### Data / Analytics Operations
 
-**International B2B Environment**
+* Built and maintained production **data processing and ETL workflows**
+* Worked with Python, SQL, Spark, NoSQL databases, and workflow orchestration
+* Supported production systems through monitoring, troubleshooting, and incident investigation
+* Worked with international B2B technical teams on production-facing projects
 
-* Built and maintained ETL and data processing workflows
-* Worked with Python, SQL, Spark, Linux, and Docker
-* Supported production data and infrastructure environments
-* Investigated technical incidents and operational issues
-* Collaborated directly with international clients and engineering teams
-* Participated in technical discussions involving telecom operators across multiple countries
+### Telecom Network Operations
 
-### Telecom NOC Engineering
-
-**Huawei Algeria**
-
-* Network monitoring and operational support
-* Incident management and troubleshooting
-* OSS/BSS and telecom platforms
-* Performance monitoring and reporting
-* Collaboration with technical teams
-
-### BSS Engineering Internship
-
-**Mobilis**
-
-* Telecom BSS environment
-* Operational and technical analysis
-* Exposure to telecom service and business-support systems
-
----
-
-## Currently Exploring
-
-```text
-Kubernetes
-Infrastructure as Code
-Advanced GCP Architecture
-DataOps
-MLOps
-Cloud-native Data Platforms
-Automation
-Observability
-```
+* Network monitoring and performance analysis across OSS platforms
+* Incident investigation, troubleshooting, and operational support
+* Worked with tools including **Nagios, Zabbix, NetAct, ENM, U2020, ServiceNow, Remedy, Jira, Kibana and Power BI**
+* Supported technical teams working with multinational telecom operators
 
 ---
 
 ## 🏫 ITAAR Academy
 
-### Founder — ITAAR Academy
+**Founder · Technology & Practical Learning**
 
-A practical learning initiative focused on **technology, skills, collaboration, and knowledge sharing**.
+ITAAR Academy is a practical learning initiative focused on helping people **learn, practice, and share useful skills**.
 
-**Learn · Practice · Grow**
+> **Learn. Practice. Grow.**
 
-Areas include:
-
-`Programming` · `Networking` · `IoT` · `Technology` · `Languages` · `Practical Workshops`
+Topics include technology, programming, IoT, cloud, languages, workshops, and hands-on learning.
 
 ---
 
-## Certifications
+## 📊 GitHub Activity
 
-| Certification                           | Area       |
-| --------------------------------------- | ---------- |
-| Google Cloud Foundations                | Cloud      |
-| Oracle Cloud Infrastructure Foundations | Cloud      |
-| Cisco Networking Basics                 | Networking |
-| Kubernetes for Absolute Beginners       | Kubernetes |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ouahiba99&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouahiba99&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ouahiba99&hide_border=true&theme=transparent" />
+
+<br/><br/>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ouahiba99/ouahiba99/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="GitHub contribution snake"
+  />
+</p>
+
+</div>
 
 ---
 
-## GitHub
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/ouahiba99">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouahiba99&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ouahiba's GitHub statistics">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
----
-
-## Let's Connect
+<br/>
 
 <div align="center">
 
-I'm open to collaboration around **Data Engineering, DataOps, Cloud, MLOps, Telecom, automation, and scalable systems.**
+**Building reliable systems. Turning data into scalable solutions.**
 
-<br>
+<br/>
 
-<a href="https://www.linkedin.com/in/ouahibaahmid">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-</a>
-&nbsp;
-<a href="https://ouahiba99.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio">
-</a>
-&nbsp;
-<a href="mailto:ahmidouahiba@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email">
-</a>
-
-<br><br>
-
-**Building reliable systems. Turning data into useful solutions.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
-
