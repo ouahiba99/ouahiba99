@@ -29,6 +29,20 @@ I'm a **Telecom & ICT State Engineer** and **DataOps & Cloud Consultant** focuse
 
 I enjoy turning complex technical requirements into **automated, observable, and production-ready solutions**.
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/highlights?username=ouahiba99&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F59165621%3Fv%3D4&items=Data%20Engineering%3A%3APipelines%20%26%20orchestration%7CCloud%20Infrastructure%3A%3AReliable%20platform%20delivery%7CTelecom%20Operations%3A%3AMonitoring%20%26%20performance&variant=wow&v=ouahiba-focus-1&mode=light"
+    />
+    <img
+      width="100%"
+      alt="Animated overview of Ouahiba's data engineering, cloud infrastructure, and telecom operations focus"
+      src="https://www.gitskins.com/api/section/highlights?username=ouahiba99&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F59165621%3Fv%3D4&items=Data%20Engineering%3A%3APipelines%20%26%20orchestration%7CCloud%20Infrastructure%3A%3AReliable%20platform%20delivery%7CTelecom%20Operations%3A%3AMonitoring%20%26%20performance&variant=wow&v=ouahiba-focus-1&mode=dark"
+    />
+  </picture>
+</p>
+
 * ⚙️ **Data & Pipelines** — ETL/ELT, Spark, SQL, Python, Airflow, Prefect
 * ☁️ **Cloud & Infrastructure** — GCP, Azure, Docker, Kubernetes, Linux
 * 🤖 **MLOps & Automation** — MLflow, DVC, FastAPI, CI/CD
@@ -121,17 +135,18 @@ I enjoy turning complex technical requirements into **automated, observable, and
 
 ## 🚀 Featured Projects
 
-### 🛒 End-to-End MLOps Platform
+### 🛒 [End-to-End MLOps Platform](https://github.com/ouahiba99/MLOPS_training)
 
 **Production-oriented ML platform for predicting late e-commerce deliveries.**
 
-`Python` `PostgreSQL` `MLflow` `DVC` `FastAPI` `Docker` `Azure Blob` `Prometheus` `Grafana`
+`Python` `PostgreSQL` `MLflow` `DVC` `Great Expectations` `FastAPI` `Docker` `Azure Blob` `Prometheus` `Grafana`
 
 **Highlights**
 
 * End-to-end ML lifecycle from training to deployment
 * MLflow model registry and champion model workflow
 * DVC-based data/model artifact management
+* Strict data contract validation with Great Expectations
 * Azure Blob Storage integration
 * FastAPI prediction service
 * Nginx reverse proxy
