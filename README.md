@@ -540,11 +540,10 @@
     <div class="matrix-stats">
       <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
       <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
-    </div>
-    <div class="matrix-panel" style="margin-top: 8px; margin-left: 22px; margin-right: 22px;">
-      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouahiba99&bg_color=0d1117&color=7ef9c6&line=7ef9c6&point=00d4ff&area=true&hide_border=true" alt="Contribution graph" />
-      </p>
+  <p align="center">
+    <img src="./profile/contributions.svg" width="95%" alt="GitHub Contributions" />
+  </p>
+</div>
       <p align="center">
         <img src="https://streak-stats.demolab.com?user=ouahiba99&hide_border=true&theme=dark" alt="Contribution streak" />
       </p>
