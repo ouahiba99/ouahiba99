@@ -390,8 +390,11 @@
     <div class="matrix-section-title">[00] identity</div>
     <div class="matrix-panel">
       <p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ouahiba%20Ahmid&fontSize=50&fontColor=ffffff&color=gradient" alt="Ouahiba Ahmid" width="95%" />
-      </p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=%3E_%20Ouahiba%20Ahmid&fontSize=46&fontColor=7ef9c6&fontAlignY=38&animation=twinkling&color=0d1117&desc=%5B%20DataOps%20%7C%20Cloud%20%7C%20DevOps%20%5D&descSize=18&descAlignY=62&descColor=00d4ff"
+  alt="Ouahiba Ahmid — DataOps & Cloud Consultant"
+  width="95%"
+/>
       <p align="center">
         <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=61ffb5&center=true&vCenter=true&width=850&lines=DataOps+%26+Cloud+Infrastructure;Data+Engineering+%7C+MLOps+%7C+Automation;Telecom+%26+Network+Operations;Building+Reliable+%26+Scalable+Systems" alt="Typing SVG" />
       </p>
