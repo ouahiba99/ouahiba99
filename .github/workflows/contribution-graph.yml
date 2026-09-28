@@ -19,10 +19,26 @@ jobs:
           fetch-depth: 0
 
       - name: Generate 3D contribution profile
-        uses: yoshi389111/github-profile-3d-contrib@latest
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ouahiba99
+
+      - name: Check generated SVG files
+        run: |
+          echo "=== Repository root ==="
+          ls -la
+
+          echo "=== 3D contribution directory ==="
+          if [ -d "profile-3d-contrib" ]; then
+            ls -lah profile-3d-contrib
+          else
+            echo "ERROR: profile-3d-contrib directory was NOT created"
+            exit 1
+          fi
+
+          echo "=== SVG files ==="
+          find profile-3d-contrib -type f -name "*.svg" -print
 
       - name: Commit and push 3D contribution profile
         run: |
@@ -33,7 +49,7 @@ jobs:
           git reset --soft origin/main
           git reset
 
-          git add -A .
+          git add profile-3d-contrib/
 
           if git diff --cached --quiet; then
             echo "No 3D contribution changes"
