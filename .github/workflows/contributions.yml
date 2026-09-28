@@ -27,7 +27,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ouahiba99
 
-      - name: Prepare contribution SVG
+      - name: Prepare transparent contribution SVG
         run: |
           set -e
 
@@ -41,10 +41,47 @@ jobs:
             cp "profile-3d-contrib/profile-green.svg" "profile/contributions.svg"
           else
             echo "ERROR: No contribution SVG was generated."
-            echo "Contents of profile-3d-contrib:"
-            find profile-3d-contrib -maxdepth 2 -type f -print 2>/dev/null || true
+            find profile-3d-contrib -maxdepth 2 -type f -name "*.svg" -print 2>/dev/null || true
             exit 1
           fi
+
+          echo "Removing SVG background..."
+
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("profile/contributions.svg")
+          svg = path.read_text()
+
+          # Remove common full-canvas background rectangles.
+          svg = re.sub(
+              r'<rect[^>]*(?:width=["'\'']100%["'\'']|width=["'\''][0-9.]+["'\''])[^>]*height=["'\'']100%["'\''][^>]*/?>',
+              '',
+              svg,
+              flags=re.IGNORECASE
+          )
+
+          # Remove explicit white/black background rectangles.
+          svg = re.sub(
+              r'<rect[^>]*(?:fill=["'\''](?:#(?:fff|ffffff|000|000000)|white|black)["'\''])[^>]*/?>',
+              '',
+              svg,
+              flags=re.IGNORECASE
+          )
+
+          # Remove SVG-level background styling.
+          svg = re.sub(
+              r'background(?:-color)?\s*:\s*(?:#[0-9a-fA-F]{3,8}|white|black)\s*;?',
+              '',
+              svg,
+              flags=re.IGNORECASE
+          )
+
+          path.write_text(svg)
+
+          print(f"Transparent SVG written to {path}")
+          PY
 
           echo "Generated:"
           ls -lh profile/contributions.svg
