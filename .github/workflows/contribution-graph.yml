@@ -11,28 +11,34 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate 3D contribution profile
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ouahiba99
 
-      - name: Commit and Push
+      - name: Commit and push 3D contribution profile
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.email "github-actions@users.noreply.github.com"
+
+          git fetch origin main
+          git reset --soft origin/main
+          git reset
 
           git add -A .
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update GitHub 3D contribution profile"
-            git push
+            echo "No 3D contribution changes"
+            exit 0
           fi
+
+          git commit -m "chore: update GitHub 3D contribution profile"
+          git push origin HEAD:main
