@@ -43,7 +43,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cards/03-project-telecom.svg" width="96%" alt="Telecom Network Operations Platform — engineering platform for simulating, ingesting, processing, and monitoring telecom network data." />
+  <a href="https://github.com/ouahiba99/telecom-network-operations">
+    <img src="./assets/cards/03-project-telecom.svg" width="96%" alt="Telecom Network Operations Platform — engineering platform for simulating, ingesting, processing, and monitoring telecom network data." />
+  </a>
 </p>
 
 <br/>
