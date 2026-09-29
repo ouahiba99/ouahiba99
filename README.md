@@ -65,6 +65,7 @@
 </p>
 
 <p align="center">
+ <a href="https://www.linkedin.com/company/itaar-academy">
   <img src="./assets/cards/05-academy.svg" width="96%" alt="ITAAR Academy — Founder, technology & practical learning." />
 </p>
 
