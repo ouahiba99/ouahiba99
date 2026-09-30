@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=%3E_%20Ouahiba%20Ahmid&fontSize=46&fontColor=7db8ff&fontAlignY=45&animation=twinkling&color=00000000" alt="Ouahiba Ahmid — DataOps & Cloud Consultant" width="80%" />
-</p>
-
-<p align="center">
   <img src="./assets/terminal.svg" width="96%" alt="Terminal: ouahiba99@github ./welcome --profile" />
 </p>
 
