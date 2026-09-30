@@ -56,24 +56,24 @@ jobs:
 
           # Remove common full-canvas background rectangles.
           svg = re.sub(
-              r'<rect[^>]*(?:width=["'\'']100%["'\'']|width=["'\''][0-9.]+["'\''])[^>]*height=["'\'']100%["'\''][^>]*/?>',
-              '',
+              r"""<rect[^>]*(?:width=["']100%["']|width=["'][0-9.]+["'])[^>]*height=["']100%["'][^>]*/?>""",
+              "",
               svg,
               flags=re.IGNORECASE
           )
 
           # Remove explicit white/black background rectangles.
           svg = re.sub(
-              r'<rect[^>]*(?:fill=["'\''](?:#(?:fff|ffffff|000|000000)|white|black)["'\''])[^>]*/?>',
-              '',
+              r"""<rect[^>]*(?:fill=["'](?:#(?:fff|ffffff|000|000000)|white|black)["'])[^>]*/?>""",
+              "",
               svg,
               flags=re.IGNORECASE
           )
 
           # Remove SVG-level background styling.
           svg = re.sub(
-              r'background(?:-color)?\s*:\s*(?:#[0-9a-fA-F]{3,8}|white|black)\s*;?',
-              '',
+              r"""background(?:-color)?\s*:\s*(?:#[0-9a-fA-F]{3,8}|white|black)\s*;?""",
+              "",
               svg,
               flags=re.IGNORECASE
           )
