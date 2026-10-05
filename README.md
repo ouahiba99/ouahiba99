@@ -1,30 +1,6 @@
 <p align="center">
   <img src="./assets/terminal.svg" width="96%" alt="Terminal: ouahiba99@github ./welcome --profile" />
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/datadrivenmind">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn-datadrivenmind-4d9dff.svg?logo=linkedin&variant=secondary&theme=blue&size=sm&mode=dark" />
-      <img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn-datadrivenmind-4d9dff.svg?logo=linkedin&variant=secondary&theme=blue&size=sm&mode=light" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="mailto:ahmidouahiba@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Email-ahmidouahiba-4d9dff.svg?logo=gmail&variant=secondary&theme=blue&size=sm&mode=dark" />
-      <img alt="Email" src="https://shieldcn.dev/badge/Email-ahmidouahiba-4d9dff.svg?logo=gmail&variant=secondary&theme=blue&size=sm&mode=light" />
-    </picture>
-  </a>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Location-Algeria-4d9dff.svg?logo=googlemaps&variant=secondary&theme=blue&size=sm&mode=dark" />
-    <img alt="Algeria" src="https://shieldcn.dev/badge/Location-Algeria-4d9dff.svg?logo=googlemaps&variant=secondary&theme=blue&size=sm&mode=light" />
-  </picture>
-</p>
-
-<br/>
-
 <p align="center">
   <img src="./assets/sections/01-system-overview.svg" width="96%" alt="[01] System overview" />
 </p>
