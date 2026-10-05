@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ouahiba99">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/GitHub-ouahiba99-4d9dff.svg?logo=github&variant=secondary&theme=blue&size=sm&mode=dark" />
-      <img alt="GitHub" src="https://shieldcn.dev/badge/GitHub-ouahiba99-4d9dff.svg?logo=github&variant=secondary&theme=blue&size=sm&mode=light" />
-    </picture>
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/datadrivenmind">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn-datadrivenmind-4d9dff.svg?logo=linkedin&variant=secondary&theme=blue&size=sm&mode=dark" />
